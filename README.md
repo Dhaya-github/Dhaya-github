@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamdhaya05&style=flat-square&color=70a5fd&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/iamdhaya05?style=flat-square&color=bf91f3&logo=github&logoColor=white&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Dhaya-github&style=flat-square&color=70a5fd&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Dhaya-github?style=flat-square&color=bf91f3&logo=github&logoColor=white&label=Followers" />
   <img src="https://img.shields.io/badge/Location-Puducherry%2C%20India-38bdae?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-70a5fd?style=flat-square&logo=openai&logoColor=white" />
 </p>
@@ -90,11 +90,11 @@ class Dhayanithi:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/iamdhaya05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdhaya05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/Dhaya-github">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhaya-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/iamdhaya05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhaya05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/Dhaya-github">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaya-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -103,7 +103,7 @@ class Dhayanithi:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamdhaya05&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Dhaya-github&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 ---
@@ -111,7 +111,7 @@ class Dhayanithi:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdhaya05&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhaya-github&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
@@ -119,7 +119,7 @@ class Dhayanithi:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamdhaya05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhaya-github&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 ---
@@ -148,11 +148,11 @@ class Dhayanithi:
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [🏷️ **Check-in Pal** v1 & v2 — RFID Attendance System](https://github.com/iamdhaya05) | `Python` `RFID` `IoT` `MySQL` `Cloud Sync` | IoT-based attendance system with real-time cloud synchronisation; automated attendance workflows with zero manual entry |
-| [🤖 **AIMSR College Bot** — Autonomous AI Hardware](https://github.com/iamdhaya05) | `Python` `Sensor Integration` `Autonomous AI` `Navigation` | Led end-to-end development of an AI-enabled autonomous navigation bot; integrated multi-sensor fusion for hallway traversal |
-| [📄 **Smart-Doc Classifier** — Document Categorisation](https://github.com/iamdhaya05) | `Python` `NLP` `Transformers` `Scikit-learn` `ML Pipeline` | **85% reduction** in manual sorting time · **94% accuracy** across **15 document types** using custom transformer models |
-| [🛡️ **Vision-Guard** — Real-time Anomaly Detection](https://github.com/iamdhaya05) | `Python` `YOLOv8` `OpenCV` `Edge-AI` `Computer Vision` | **<200ms** processing latency · **40% reduction** in false-positive alarms · Real-time restricted-zone access alerts |
-| [🗓️ **AI Timetable Maker** — Smart Scheduling Platform](https://github.com/iamdhaya05) | `Python` `Generative AI` `Azure OpenAI` `Full Stack` | Cross-platform timetable generator with lightweight AI logic for automated, constraint-based scheduling |
+| [🏷️ **Check-in Pal** v1 & v2 — RFID Attendance System](https://github.com/Dhaya-github) | `Python` `RFID` `IoT` `MySQL` `Cloud Sync` | IoT-based attendance system with real-time cloud synchronisation; automated attendance workflows with zero manual entry |
+| [🤖 **AIMSR College Bot** — Autonomous AI Hardware](https://github.com/Dhaya-github) | `Python` `Sensor Integration` `Autonomous AI` `Navigation` | Led end-to-end development of an AI-enabled autonomous navigation bot; integrated multi-sensor fusion for hallway traversal |
+| [📄 **Smart-Doc Classifier** — Document Categorisation](https://github.com/Dhaya-github) | `Python` `NLP` `Transformers` `Scikit-learn` `ML Pipeline` | **85% reduction** in manual sorting time · **94% accuracy** across **15 document types** using custom transformer models |
+| [🛡️ **Vision-Guard** — Real-time Anomaly Detection](https://github.com/Dhaya-github) | `Python` `YOLOv8` `OpenCV` `Edge-AI` `Computer Vision` | **<200ms** processing latency · **40% reduction** in false-positive alarms · Real-time restricted-zone access alerts |
+| [🗓️ **AI Timetable Maker** — Smart Scheduling Platform](https://github.com/Dhaya-github) | `Python` `Generative AI` `Azure OpenAI` `Full Stack` | Cross-platform timetable generator with lightweight AI logic for automated, constraint-based scheduling |
 
 </div>
 
@@ -209,8 +209,8 @@ class Dhayanithi:
     <img src="https://img.shields.io/badge/Gmail-iamdhaya.05%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/iamdhaya05">
-    <img src="https://img.shields.io/badge/GitHub-iamdhaya05-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/Dhaya-github">
+    <img src="https://img.shields.io/badge/GitHub-Dhaya-github-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Phone-%2B91%2063826%2024128-38bdae?style=flat-square&logo=whatsapp&logoColor=white"/>
